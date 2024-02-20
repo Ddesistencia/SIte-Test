@@ -1,0 +1,16 @@
+*{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+}
+
+body{
+    background-color: rgb(241, 139, 207);
+}
+
+main{
+    background-color: azure;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 3px rgb(0, 0, 0.40);
+}
